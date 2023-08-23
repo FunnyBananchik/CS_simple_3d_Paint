@@ -1,0 +1,16 @@
+C:\Users\Aspire\Desktop\Proekt\LR4\LR4_2\bin\Debug\LR4_2.exe
+C:\Users\Aspire\Desktop\Proekt\LR4\LR4_2\bin\Debug\LR4_2.pdb
+C:\Users\Aspire\Desktop\Proekt\LR4\LR4_2\bin\Debug\Tao.FreeGlut.dll
+C:\Users\Aspire\Desktop\Proekt\LR4\LR4_2\bin\Debug\Tao.OpenGl.dll
+C:\Users\Aspire\Desktop\Proekt\LR4\LR4_2\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\Aspire\Desktop\Proekt\LR4\LR4_2\bin\Debug\Tao.FreeGlut.xml
+C:\Users\Aspire\Desktop\Proekt\LR4\LR4_2\bin\Debug\Tao.OpenGl.xml
+C:\Users\Aspire\Desktop\Proekt\LR4\LR4_2\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Aspire\Desktop\Proekt\LR4\LR4_2\obj\Debug\LR4_2.csproj.AssemblyReference.cache
+C:\Users\Aspire\Desktop\Proekt\LR4\LR4_2\obj\Debug\LR4_2.Form1.resources
+C:\Users\Aspire\Desktop\Proekt\LR4\LR4_2\obj\Debug\LR4_2.Properties.Resources.resources
+C:\Users\Aspire\Desktop\Proekt\LR4\LR4_2\obj\Debug\LR4_2.csproj.GenerateResource.cache
+C:\Users\Aspire\Desktop\Proekt\LR4\LR4_2\obj\Debug\LR4_2.csproj.CoreCompileInputs.cache
+C:\Users\Aspire\Desktop\Proekt\LR4\LR4_2\obj\Debug\LR4_2.csproj.CopyComplete
+C:\Users\Aspire\Desktop\Proekt\LR4\LR4_2\obj\Debug\LR4_2.exe
+C:\Users\Aspire\Desktop\Proekt\LR4\LR4_2\obj\Debug\LR4_2.pdb
